@@ -1,6 +1,6 @@
 # PFC_HeartRateSensor
-_Version:_ *0.1*
-_Author:_ *JFBeltran*
+###### _Version:_ 0.1
+###### _Author:_ JFBeltran
 
 
 ## Overview
