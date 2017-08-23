@@ -1,0 +1,73 @@
+[Stack]
+FillEnabled=0
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnLogOnly=1
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[DebugChecksum]
+Checksum=354074370
+[CallStack]
+ShowArgs=0
+[Disassembly]
+MixedMode=1
+[SfrWindow]
+Show=1 1
+Sort=4 0
+[CallStackLog]
+Enabled=0
+[DriverProfiling]
+Enabled=0
+Mode=1
+Graph=0
+Symbiont=0
+Exclusions=
+[InterruptLog]
+LogEnabled=0
+SumEnabled=0
+GraphEnabled=0
+ShowTimeLog=1
+ShowTimeSum=1
+SumSortOrder=0
+[DataLog]
+LogEnabled=0
+SumEnabled=0
+GraphEnabled=0
+ShowTimeLog=1
+ShowTimeSum=1
+[Breakpoints2]
+Bp0=_ 1 "STD_CODE2" "{$PROJ_DIR$\..\..\Profiles\JFBS_Heart_Rate_Sensor\JFBS_HeartRateSensor.c}.428.13" 0 0 1 "" 0 ""
+Count=1
+[Interrupts]
+Enabled=1
+[MemoryMap]
+Enabled=0
+Base=0
+UseAuto=0
+TypeViolation=1
+UnspecRange=1
+ActionState=1
+[Trace1]
+Enabled=0
+ShowSource=1
+[Breakpoints]
+Bp0=_ "STD_CODE" "LogicalCode:0x39284" 0 0 0 0 "" 0 ""
+Bp1=_ "STD_CODE" "LogicalCode:0x3928E" 0 0 0 0 "" 0 ""
+Bp2=_ "STD_CODE" "LogicalCode:0x392C6" 0 0 0 0 "" 0 ""
+Count=3
+[ChipconEmu]
+Stop timers on halt=0
+Leave target running=1
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
+[Aliases]
+Count=0
+SuppressDialog=0
